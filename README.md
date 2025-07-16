@@ -1,6 +1,6 @@
 # LLMS-ubiquitous-Toy-Projects
 Place where i dump my toy LLM projects
-# 🕉️ GitaGPT Tutorial (NanoGPT Style)
+# GitaGPT Tutorial (NanoGPT Style)
 
 Character-level GPT trained from scratch on Bhagavad Gita text. Inspired by Karpathy’s GPT from scratch tutorial.
 
